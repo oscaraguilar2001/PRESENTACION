@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**oscarxd11/oscarxd11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy [Tu Nombre]
 
-Here are some ideas to get you started:
+## Desarrollador Front-End 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Sobre mí ✨
+
+Hola, soy [Tu Nombre], un apasionado desarrollador front-end que ama combinar diseño y funcionalidad para crear experiencias web cautivadoras.
+
+### Habilidades 🛠️
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+
+### Conéctate conmigo 🌐
+
+[![Twitter](https://img.shields.io/twitter/follow/tu-usuario?style=social)](https://twitter.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-usuario)
+
+</div>
