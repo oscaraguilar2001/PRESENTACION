@@ -17,26 +17,26 @@
 ### Habilidades 🛠️
 
 - **Lenguajes:**
-  - <i class="fab fa-html5"></i> HTML5
-  - <i class="fab fa-css3-alt"></i> CSS3
-  - <i class="fab fa-js"></i> JavaScript
-  - <i class="fab fa-java"></i> Java
-  - <i class="fab fa-dart"></i> Dart
-  - <i class="fab fa-typescript"></i> TypeScript
+  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML5
+  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3
+  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+  - <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
+  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
 
 - **Frameworks y Plataformas:**
-  - <i class="fab fa-react"></i> React.js
-  - <i class="fab fa-spring"></i> Spring Boot
-  - <i class="fab fa-flutter"></i> Flutter
+  - <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> React.js
+  - <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> Spring Boot
+  - <img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter
 
 - **Bases de Datos:**
-  - <i class="fas fa-database"></i> Firebase
-  - <i class="fas fa-database"></i> MySQL
-  - <i class="fas fa-database"></i> SQL Server
+  - <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase
+  - <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> MySQL
+  - <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png"/> SQL Server
 
 - **Herramientas:**
-  - <i class="fab fa-git"></i> Git
-  - <i class="fas fa-fire"></i> Firebase (Autenticación, Base de Datos, Almacenamiento)
+  - <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Git
+  - <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase (Autenticación, Base de Datos, Almacenamiento)
   
 - **Metodologías Ágiles:**
   - Scrum
