@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Oscar Aguilar! 👋
 
 ## Desarrollador Front-End | Apasionado por el diseño web y la innovación 🚀
 
@@ -12,12 +12,22 @@
 
 ¡Bienvenido a mi rincón de desarrollo! Soy [Tu Nombre], un entusiasta desarrollador front-end con un ojo meticuloso para el diseño y la experiencia del usuario. Mi misión es transformar ideas en realidad a través de código creativo y soluciones tecnológicas.
 
+---
+
 ### Habilidades 🛠️
 
-- **Lenguajes:** HTML5, CSS3, JavaScript
-- **Frameworks:** React.js
-- **Herramientas:** Git, VS Code
-- **Diseño:** UI/UX, Responsive Design
+- **Lenguajes:**
+  - <i class="fab fa-html5"></i> HTML5
+  - <i class="fab fa-css3-alt"></i> CSS3
+  - <i class="fab fa-js"></i> JavaScript
+- **Frameworks:**
+  - <i class="fab fa-react"></i> React.js
+- **Herramientas:**
+  - <i class="fab fa-git"></i> Git
+  - <i class="fas fa-code"></i> VS Code
+- **Diseño:**
+  - UI/UX
+  - Responsive Design
 
 ---
 
