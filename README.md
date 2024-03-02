@@ -43,7 +43,7 @@
 **Herramientas:**
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" title="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+    <img src="URL-DE-INSOMNIA-O-POSTMAN" alt="Insomnia o Postman" title="Insomnia o Postman"/>
 </div>
 
 **Metodologías Ágiles:**
