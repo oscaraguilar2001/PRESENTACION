@@ -17,16 +17,34 @@
 ### Habilidades 🛠️
 
 **Lenguajes:**
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" title="TypeScript"/>
+</div>
 
 **Frameworks y Plataformas:**
-![React.js](https://img.icons8.com/plasticine/48/000000/react.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React.js" title="React.js"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
+    <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
+</div>
 
 **Bases de Datos:**
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/ms-sql-server.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+    <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+    <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png" alt="SQL Server" title="SQL Server"/>
+</div>
 
 **Herramientas:**
-![Git](https://img.icons8.com/ios-filled/50/000000/github.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" title="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+</div>
 
 **Metodologías Ágiles:**
 Scrum
