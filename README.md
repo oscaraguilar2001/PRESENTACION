@@ -35,13 +35,14 @@
 
 <div align="center">
 
-#### [Proyecto 1](enlace-al-proyecto-1) (Fecha de inicio: MM/AAAA - Fecha de fin: MM/AAAA)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-1)
-
-![Proyecto 1](https://github.com/oscarxd11/oscarxd11/assets/134746574/fbbbcd5f-a6b9-4e3a-adbf-cd8689682740)
-
-Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
+#### [Proyecto 1](enlace-al-proyecto-1) 
+<div>
+  <a href="https://github.com/oscarxd11/proyecto-1" target="_blank">
+    <img src="https://github.com/oscarxd11/oscarxd11/assets/134746574/fbbbcd5f-a6b9-4e3a-adbf-cd8689682740" alt="Proyecto 1">
+  </a>
+  <p>Fecha de inicio: <i class="far fa-calendar-alt"></i> MM/AAAA - Fecha de fin: <i class="far fa-calendar-alt"></i> MM/AAAA</p>
+  <p>Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.</p>
+</div>
 
 </div>
 
@@ -49,13 +50,14 @@ Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
 
 <div align="center">
 
-#### [Proyecto 2](enlace-al-proyecto-2) (Fecha de inicio: MM/AAAA - Fecha de fin: MM/AAAA)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-2)
-
-![Proyecto 2](https://github.com/oscarxd11/oscarxd11/assets/134746574/ade45856-6111-4a06-a48f-1dc63b88242c)
-
-Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.
+#### [Proyecto 2](enlace-al-proyecto-2) 
+<div>
+  <a href="https://github.com/oscarxd11/proyecto-2" target="_blank">
+    <img src="https://github.com/oscarxd11/oscarxd11/assets/134746574/ade45856-6111-4a06-a48f-1dc63b88242c" alt="Proyecto 2">
+  </a>
+  <p>Fecha de inicio: <i class="far fa-calendar-alt"></i> MM/AAAA - Fecha de fin: <i class="far fa-calendar-alt"></i> MM/AAAA</p>
+  <p>Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.</p>
+</div>
 
 </div>
 
