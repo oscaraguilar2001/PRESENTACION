@@ -35,27 +35,26 @@
 
 <div align="center">
 
-#### [Proyecto 1](enlace-al-proyecto-1)
+#### Carrusel de Proyectos
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-1)
+<div class="slick-carousel">
+  <div>
+    <a href="https://github.com/oscarxd11/proyecto-1" target="_blank">
+      <img src="https://github.com/oscarxd11/oscarxd11/assets/134746574/fbbbcd5f-a6b9-4e3a-adbf-cd8689682740" alt="Proyecto 1">
+    </a>
+    <p>Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.</p>
+  </div>
 
-![Proyecto 1](https://github.com/oscarxd11/oscarxd11/assets/134746574/fbbbcd5f-a6b9-4e3a-adbf-cd8689682740)
+  <div>
+    <a href="https://github.com/oscarxd11/proyecto-2" target="_blank">
+      <img src="https://github.com/oscarxd11/oscarxd11/assets/134746574/ade45856-6111-4a06-a48f-1dc63b88242c" alt="Proyecto 2">
+    </a>
+    <p>Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.</p>
+  </div>
 
-Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
+  <!-- Agrega más proyectos según sea necesario -->
 
 </div>
-
----
-
-<div align="center">
-
-#### [Proyecto 2](enlace-al-proyecto-2)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-2)
-
-![Proyecto 2](https://github.com/oscarxd11/oscarxd11/assets/134746574/ade45856-6111-4a06-a48f-1dc63b88242c)
-
-Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.
 
 </div>
 
@@ -79,3 +78,19 @@ Siempre estoy explorando nuevas tecnologías y técnicas para mejorar mis habili
 ### ¡Gracias por visitar! 😊
 
 </div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script>
+  $(document).ready(function(){
+    $('.slick-carousel').slick({
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 5000
+    });
+  });
+</script>
