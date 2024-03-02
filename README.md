@@ -37,7 +37,7 @@
 <div style="display: flex; justify-content: space-around;">
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
     <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-    <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png" alt="SQL Server" title="SQL Server"/>
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" title="SQL Server"/>
 </div>
 
 **Herramientas:**
