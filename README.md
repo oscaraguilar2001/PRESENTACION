@@ -73,8 +73,12 @@ Siempre estoy explorando nuevas tecnologías y técnicas para mejorar mis habili
 
 ¡Hablemos de código, diseño o cualquier cosa interesante! Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oscar-alfonso-aguilar-ayala-313259221)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green)](https://wa.me/51904909396)
+<a href="https://www.linkedin.com/in/oscar-alfonso-aguilar-ayala-313259221" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
+</a>
+<a href="https://wa.me/51904909396" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-green" alt="WhatsApp">
+</a>
 
 ---
 
