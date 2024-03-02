@@ -42,7 +42,7 @@
 
 **Herramientas:**
 <div style="display: flex; justify-content: space-around; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="Git" title="Git" width="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="GitHub" title="Git" width="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/insomnia/insomnia-original.svg" alt="Insomnia" title="Insomnia" width="48"/>
 </div>
