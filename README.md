@@ -20,14 +20,20 @@
   - <i class="fab fa-html5"></i> HTML5
   - <i class="fab fa-css3-alt"></i> CSS3
   - <i class="fab fa-js"></i> JavaScript
-- **Frameworks:**
+  - <i class="fab fa-java"></i> Java
+  - <i class="fab fa-python"></i> Python
+  - <i class="fab fa-dart"></i> Dart
+  - <i class="fab fa-typescript"></i> TypeScript
+- **Frameworks y Tecnologías:**
   - <i class="fab fa-react"></i> React.js
+  - <i class="fab fa-spring"></i> Spring Boot
+  - <i class="fas fa-fire"></i> Firebase
+  - <i class="fab fa-flutter"></i> Flutter
 - **Herramientas:**
   - <i class="fab fa-git"></i> Git
   - <i class="fas fa-code"></i> VS Code
-- **Diseño:**
-  - UI/UX
-  - Responsive Design
+- **Metodologías:**
+  - Ágiles (Scrum)
 
 ---
 
