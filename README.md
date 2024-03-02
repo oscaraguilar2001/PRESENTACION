@@ -19,14 +19,39 @@
 - **Herramientas:** Git, VS Code
 - **Diseño:** UI/UX, Responsive Design
 
+---
+
 ### Proyectos Destacados 🚀
 
-- [Proyecto 1](enlace-al-proyecto-1): Una breve descripción del proyecto y su relevancia.
-- [Proyecto 2](enlace-al-proyecto-2): Otra breve descripción.
+<div align="center">
+
+#### [Proyecto 1](enlace-al-proyecto-1)
+
+![Proyecto 1](enlace-a-imagen-proyecto-1)
+
+Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
+
+</div>
+
+---
+
+<div align="center">
+
+#### [Proyecto 2](enlace-al-proyecto-2)
+
+![Proyecto 2](enlace-a-imagen-proyecto-2)
+
+Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.
+
+</div>
+
+---
 
 ### Aprendizaje Continuo 📚
 
 Siempre estoy explorando nuevas tecnologías y técnicas para mejorar mis habilidades. Actualmente, estoy enfocado en [tema de aprendizaje actual].
+
+---
 
 ### Conéctate Conmigo 🌐
 
@@ -34,6 +59,8 @@ Siempre estoy explorando nuevas tecnologías y técnicas para mejorar mis habili
 
 [![Twitter](https://img.shields.io/twitter/follow/tu-usuario?style=social)](https://twitter.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tu-usuario)
+
+---
 
 ### ¡Gracias por visitar! 😊
 
