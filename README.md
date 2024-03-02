@@ -30,6 +30,7 @@
   - <i class="fab fa-flutter"></i> Flutter
 
 - **Bases de Datos:**
+  - <i class="fas fa-database"></i> Firebase
   - <i class="fas fa-database"></i> MySQL
   - <i class="fas fa-database"></i> SQL Server
 
