@@ -37,7 +37,8 @@
 
 #### [Proyecto 1](enlace-al-proyecto-1)
 
-![Proyecto 1](enlace-a-imagen-proyecto-1)
+![Proyecto 1]![image](https://github.com/oscarxd11/oscarxd11/assets/134746574/fbbbcd5f-a6b9-4e3a-adbf-cd8689682740)
+
 
 Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
 
