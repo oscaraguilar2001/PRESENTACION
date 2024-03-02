@@ -21,19 +21,25 @@
   - <i class="fab fa-css3-alt"></i> CSS3
   - <i class="fab fa-js"></i> JavaScript
   - <i class="fab fa-java"></i> Java
-  - <i class="fab fa-python"></i> Python
   - <i class="fab fa-dart"></i> Dart
   - <i class="fab fa-typescript"></i> TypeScript
-- **Frameworks y Tecnologías:**
+
+- **Frameworks y Plataformas:**
   - <i class="fab fa-react"></i> React.js
   - <i class="fab fa-spring"></i> Spring Boot
-  - <i class="fas fa-fire"></i> Firebase
   - <i class="fab fa-flutter"></i> Flutter
+
+- **Bases de Datos:**
+  - <i class="fas fa-database"></i> Firebase
+  - <i class="fas fa-database"></i> MySQL
+  - <i class="fas fa-database"></i> SQL Server
+
 - **Herramientas:**
   - <i class="fab fa-git"></i> Git
-  - <i class="fas fa-code"></i> VS Code
-- **Metodologías:**
-  - Ágiles (Scrum)
+  - <i class="fas fa-fire"></i> Firebase (Autenticación, Base de Datos, Almacenamiento)
+  
+- **Metodologías Ágiles:**
+  - Scrum
 
 ---
 
