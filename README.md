@@ -16,30 +16,20 @@
 
 ### Habilidades 🛠️
 
-- **Lenguajes:**
-  - <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML5
-  - <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3
-  - <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-  - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
-  - <img src="https://img.icons8.com/color/48/000000/dart.png"/> Dart
-  - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
+**Lenguajes:**
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 
-- **Frameworks y Plataformas:**
-  - <img src="https://img.icons8.com/plasticine/48/000000/react.png"/> React.js
-  - <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> Spring Boot
-  - <img src="https://img.icons8.com/color/48/000000/flutter.png"/> Flutter
+**Frameworks y Plataformas:**
+![React.js](https://img.icons8.com/plasticine/48/000000/react.png) ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Flutter](https://img.icons8.com/color/48/000000/flutter.png)
 
-- **Bases de Datos:**
-  - <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase
-  - <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> MySQL
-  - <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png"/> SQL Server
+**Bases de Datos:**
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png) ![SQL Server](https://img.icons8.com/color/48/000000/ms-sql-server.png)
 
-- **Herramientas:**
-  - <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/> Git
-  - <img src="https://img.icons8.com/color/48/000000/firebase.png"/> Firebase (Autenticación, Base de Datos, Almacenamiento)
-  
-- **Metodologías Ágiles:**
-  - Scrum
+**Herramientas:**
+![Git](https://img.icons8.com/ios-filled/50/000000/github.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+
+**Metodologías Ágiles:**
+Scrum
 
 ---
 
