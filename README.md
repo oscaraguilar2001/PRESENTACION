@@ -35,7 +35,7 @@
 
 <div align="center">
 
-#### [Proyecto 1](enlace-al-proyecto-1)
+#### [Proyecto 1](enlace-al-proyecto-1) (Fecha de inicio: MM/AAAA - Fecha de fin: MM/AAAA)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-1)
 
@@ -49,7 +49,7 @@ Breve descripción del Proyecto 1. Puedes agregar más detalles aquí.
 
 <div align="center">
 
-#### [Proyecto 2](enlace-al-proyecto-2)
+#### [Proyecto 2](enlace-al-proyecto-2) (Fecha de inicio: MM/AAAA - Fecha de fin: MM/AAAA)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/oscarxd11/proyecto-2)
 
