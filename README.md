@@ -42,8 +42,8 @@
 
 **Herramientas:**
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="Git" title="Git"/>
-   [ <img src="URL-DE-INSOMNIA-O-POSTMAN" alt="Insomnia o Postman" title="Insomnia o Postman"/>](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg)
+    <img src="https://img.icons8.com/ios-filled/30/000000/github.png" alt="Git" title="Git"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="30"/>
 </div>
 
 ---
