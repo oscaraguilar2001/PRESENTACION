@@ -69,16 +69,6 @@
 
 <div align="center">
 
-#### [Proyecto 2](enlace-al-proyecto-2) 
-<div>
-  <a href="https://github.com/oscarxd11/proyecto-2" target="_blank">
-    <img src="https://github.com/oscarxd11/oscarxd11/assets/134746574/ade45856-6111-4a06-a48f-1dc63b88242c" alt="Proyecto 2">
-  </a>
-  <p>Fecha de inicio: <i class="far fa-calendar-alt"></i> MM/AAAA - Fecha de fin: <i class="far fa-calendar-alt"></i> MM/AAAA</p>
-  <p>Breve descripción del Proyecto 2. Puedes agregar más detalles aquí.</p>
-</div>
-
-</div>
 
 ---
 
